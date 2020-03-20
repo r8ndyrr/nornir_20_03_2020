@@ -8,4 +8,4 @@ These are a collection of scripts from around the web actually, just tailored a 
 
 See image below:
 
-![lab] <img src="https://github.com/r8ndyrr/nornir_20_03_2020/blob/master/lab.png" width="600" height="600">
+![lab] <img src="https://github.com/r8ndyrr/nornir_20_03_2020/blob/master/lab.png" width="800" height="600">
