@@ -8,4 +8,3 @@ These are a collection of scripts from around the web actually, just tailored a 
 
 See image below:
 
-![Image of Dev](https://octodex.github.com/images/yaktocat.png)
