@@ -8,4 +8,4 @@ These are a collection of scripts from around the web actually, just tailored a 
 
 See image below:
 
-![](./pic/pic1s.png =250x)
+![lab](https://github.com/r8ndyrr/nornir_20_03_2020/blob/master/lab.png =250x)
