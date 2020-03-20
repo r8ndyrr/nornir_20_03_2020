@@ -1,0 +1,10 @@
+---
+pynet-rtr1:
+    hostname: 'r1.test.com'
+    groups: 
+      - 'cisco-ios' 
+
+pynet-rtr2:
+    hostname: 'r2.test.com'
+    groups: 
+      - 'cisco-ios'

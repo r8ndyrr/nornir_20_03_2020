@@ -1,0 +1,8 @@
+---
+username: cisco
+password: cisco
+platform: 'ios'
+
+data:
+    domain: acme.local
+

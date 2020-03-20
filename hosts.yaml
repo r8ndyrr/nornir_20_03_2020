@@ -1,0 +1,23 @@
+R1:
+    hostname: 192.168.122.6
+    platform: 'ios'
+    username: cisco
+    password: cisco
+    groups:
+        - cisco_ios
+    data:
+        vendor: vendor-x
+        asn: 65001
+        domain: test
+
+R2:
+    hostname: 192.168.122.7
+    platform: 'ios'
+    username: cisco
+    password: cisco
+    groups:
+        - cisco_ios
+    data:
+        vendor: vendor-x
+        asn: 65001
+        domain: test

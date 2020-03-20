@@ -1,0 +1,5 @@
+---
+defaults: {}
+
+cisco_ios:
+    platform: 'ios'
